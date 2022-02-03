@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOT/doNbMDyu0CL4M2Ksy0nfsoE+a804+/V7EVc8fUXnvdaLTwUqZO7BoGFFOE0Z4LP9gBus+oIFx6kCO116QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivand\\source\\repos\\Image Processing (Using Pointers)\\Image Processing (Using Pointers).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivand\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ivand\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\ivand\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

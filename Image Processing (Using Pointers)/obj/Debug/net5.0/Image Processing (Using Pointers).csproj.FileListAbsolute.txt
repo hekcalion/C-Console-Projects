@@ -1,0 +1,22 @@
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\Image Processing (Using Pointers).exe
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\Image Processing (Using Pointers).deps.json
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\Image Processing (Using Pointers).runtimeconfig.json
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\Image Processing (Using Pointers).runtimeconfig.dev.json
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\Image Processing (Using Pointers).dll
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\ref\Image Processing (Using Pointers).dll
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\Image Processing (Using Pointers).pdb
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\Image Processing (Using Pointers).csproj.AssemblyReference.cache
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\Image Processing (Using Pointers).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\Image Processing (Using Pointers).AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\Image Processing (Using Pointers).AssemblyInfo.cs
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\Image Processing (Using Pointers).csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\Image Processing (Using Pointers).csproj.CopyComplete
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\Image Processing (Using Pointers).dll
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\ref\Image Processing (Using Pointers).dll
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\Image Processing (Using Pointers).pdb
+C:\Users\ivand\source\repos\Image Processing (Using Pointers)\obj\Debug\net5.0\Image Processing (Using Pointers).genruntimeconfig.cache
