@@ -1,0 +1,66 @@
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\Image Processing.exe
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\Image Processing.deps.json
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\Image Processing.runtimeconfig.json
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\Image Processing.runtimeconfig.dev.json
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\Image Processing.dll
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\ref\Image Processing.dll
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\Image Processing.pdb
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\Image Processing.csproj.AssemblyReference.cache
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\Image Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\Image Processing.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\Image Processing.AssemblyInfo.cs
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\Image Processing.csproj.CopyComplete
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\Image Processing.dll
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\ref\Image Processing.dll
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\Image Processing.pdb
+C:\Users\ivand\source\repos\Image Processing\Image Processing by Convolution Matrix\obj\Debug\net5.0\Image Processing.genruntimeconfig.cache
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\Image Processing.exe
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\Image Processing.deps.json
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\Image Processing.runtimeconfig.json
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\Image Processing.runtimeconfig.dev.json
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\Image Processing.dll
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\ref\Image Processing.dll
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\Image Processing.pdb
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\Image Processing.csproj.AssemblyReference.cache
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\Image Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\Image Processing.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\Image Processing.AssemblyInfo.cs
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\Image Processing.csproj.CopyComplete
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\Image Processing.dll
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\ref\Image Processing.dll
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\Image Processing.pdb
+C:\Users\ivand\source\repos\Image Filtering\Image Processing\obj\Debug\net5.0\Image Processing.genruntimeconfig.cache
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\Image Processing.exe
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\Image Processing.deps.json
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\Image Processing.runtimeconfig.json
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\Image Processing.runtimeconfig.dev.json
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\Image Processing.dll
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\ref\Image Processing.dll
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\Image Processing.pdb
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.csproj.AssemblyReference.cache
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.AssemblyInfoInputs.cache
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.AssemblyInfo.cs
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.csproj.CopyComplete
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.dll
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\ref\Image Processing.dll
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.pdb
+C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.genruntimeconfig.cache
