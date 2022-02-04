@@ -54,7 +54,6 @@ C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5
 C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.csproj.AssemblyReference.cache
 C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.AssemblyInfoInputs.cache
 C:\Users\ivand\Documents\GitHub\Console-Projects\Image Processing\obj\Debug\net5.0\Image Processing.AssemblyInfo.cs
